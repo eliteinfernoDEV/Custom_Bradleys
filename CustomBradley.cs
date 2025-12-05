@@ -6,7 +6,7 @@ using Oxide.Core.Plugins;
 
 namespace Oxide.Plugins
 {
-    [Info("Custom Bradley", "YourName", "1.0.0")]
+    [Info("Custom Bradley", "eLiTeInferno", "1.0.0")]
     [Description("Spawns a customizable Bradley APC with configurable size, health, damage, and loot")]
     class CustomBradley : RustPlugin
     {
